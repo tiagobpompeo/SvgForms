@@ -1,0 +1,13 @@
+/Users/tiagobernaiaspompeo/Documents/SVGXamarinPOC/SvgForms/bin/Debug/netstandard2.0/SvgForms.deps.json
+/Users/tiagobernaiaspompeo/Documents/SVGXamarinPOC/SvgForms/bin/Debug/netstandard2.0/SvgForms.dll
+/Users/tiagobernaiaspompeo/Documents/SVGXamarinPOC/SvgForms/bin/Debug/netstandard2.0/ref/SvgForms.dll
+/Users/tiagobernaiaspompeo/Documents/SVGXamarinPOC/SvgForms/bin/Debug/netstandard2.0/SvgForms.pdb
+/Users/tiagobernaiaspompeo/Documents/SVGXamarinPOC/SvgForms/obj/Debug/netstandard2.0/SvgForms.csprojAssemblyReference.cache
+/Users/tiagobernaiaspompeo/Documents/SVGXamarinPOC/SvgForms/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/tiagobernaiaspompeo/Documents/SVGXamarinPOC/SvgForms/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/tiagobernaiaspompeo/Documents/SVGXamarinPOC/SvgForms/obj/Debug/netstandard2.0/SvgForms.AssemblyInfoInputs.cache
+/Users/tiagobernaiaspompeo/Documents/SVGXamarinPOC/SvgForms/obj/Debug/netstandard2.0/SvgForms.AssemblyInfo.cs
+/Users/tiagobernaiaspompeo/Documents/SVGXamarinPOC/SvgForms/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/tiagobernaiaspompeo/Documents/SVGXamarinPOC/SvgForms/obj/Debug/netstandard2.0/SvgForms.dll
+/Users/tiagobernaiaspompeo/Documents/SVGXamarinPOC/SvgForms/obj/Debug/netstandard2.0/ref/SvgForms.dll
+/Users/tiagobernaiaspompeo/Documents/SVGXamarinPOC/SvgForms/obj/Debug/netstandard2.0/SvgForms.pdb

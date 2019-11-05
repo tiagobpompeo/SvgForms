@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{009D181A-35F3-411C-9774-761C1A0DDF0A}|Default">
+  <MonoDevelop.Ide.ItemProperties.SvgForms.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.3300bf4511493503" />
+  <MonoDevelop.Ide.ItemProperties.SvgForms.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1A886223-CFD6-4FE2-90A7-5A6A891BAFC2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SvgForms.iOS/AppDelegate.cs">
+    <Files>
+      <File FileName="SvgForms/MainPage.xaml" Line="9" Column="37" />
+      <File FileName="SvgForms/obj/Debug/netstandard2.0/MainPage.xaml.g.cs" Line="17" Column="30" />
+      <File FileName="SvgForms.iOS/AppDelegate.cs" Line="27" Column="40" />
+      <File FileName="SvgForms.Android/MainActivity.cs" Line="21" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SVGXamarinPOC" expanded="True">
+            <Node name="SvgForms" expanded="True" />
+            <Node name="SvgForms.Android" expanded="True" />
+            <Node name="SvgForms.iOS" expanded="True">
+              <Node name="AppDelegate.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
