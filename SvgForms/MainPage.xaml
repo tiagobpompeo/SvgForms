@@ -4,7 +4,6 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              xmlns:ffimageloadingsvg="clr-namespace:FFImageLoading.Svg.Forms;assembly=FFImageLoading.Svg.Forms" 
-             xmlns:behaviors="clr-namespace:Beasy.Behaviors" 
              mc:Ignorable="d" x:Class="SvgForms.MainPage">
     <StackLayout Margin="10,40,10,10">
          <ffimageloadingsvg:SvgCachedImage 
